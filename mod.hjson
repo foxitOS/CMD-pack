@@ -4,9 +4,14 @@ subtitle: The pack includes 601 schematics,
 author: "foxit",
 description: "
  RU
-Добавляет 601 схему, пак находится в разработке, сортировка схем будет улучшаться.
+Пак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.
+Схем пак в данный момент находится на стадии активной разработки. 
  ENG
-Adds 601 schemes, the pack is under development, the sorting of schemes will improve.
+The pack adds 600+ different schematics. They are carefully sorted by names and tags.
+The schematics pack is currently under active development.
+ UA
+Пак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.
+Схем пак в даний момент знаходиться на стадії активної розробки.
 ",
 version: 1.0.0,
 minGameVersion: 142,
