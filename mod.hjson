@@ -1,0 +1,13 @@
+name: CMD-scheme-pack,
+displayName: CMD Scheme Pack,
+subtitle: The pack includes 601 schematics,
+author: "foxit",
+description: "
+ RU
+Добавляет 601 схему, пак находится в разработке, сортировка схем будет улучшаться.
+ ENG
+Adds 601 schemes, the pack is under development, the sorting of schemes will improve.
+",
+version: 1.0.0,
+minGameVersion: 142,
+hidden: true
