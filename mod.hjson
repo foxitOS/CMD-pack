@@ -1,7 +1,7 @@
-name: CMD-scheme-pack,
-displayName: CMD Scheme Pack,
-subtitle: Schematics pack, including more than 600 schematics.,
-author: "[#F0000]foxit, QUITE ETHER",
+name:"CMD-scheme-pack",
+displayName:"CMD Scheme Pack",
+subtitle:"Schematics pack, including more than 600 schematics.",
+author: "[#F0000]foxit, QE clan",
 description: "
  RU
 Пак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.
@@ -14,6 +14,6 @@ The schematics pack is currently under active development.
 Пак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.
 Схем пак в даний момент знаходиться на стадії активної розробки.
 ",
-version: 1.0.0,
+version: 2.1,
 hidden: true,
 minGameVersion: 145
