@@ -15,5 +15,5 @@ The schematics pack is currently under active development.
 Схем пак в даний момент знаходиться на стадії активної розробки.
 ",
 version: 1.0.0,
-hidden: true,
+hidden: false,
 minGameVersion: 145
